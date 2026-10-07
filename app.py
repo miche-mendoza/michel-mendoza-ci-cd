@@ -1,9 +1,9 @@
-#def sumar(a, b):
-#    return a + b
-
-
 def sumar(a, b):
-    return a + b + 1   # Error 
+    return a + b
+
+
+#def sumar(a, b):
+#    return a + b + 1
 
 
 if __name__ == "__main__":
